@@ -1,0 +1,7 @@
+{
+    "files.exclude": {
+        "**/.css": true,
+        "**/.html": true
+    },
+    "search.useIgnoreFiles": false
+}
